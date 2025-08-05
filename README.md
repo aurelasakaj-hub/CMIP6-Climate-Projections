@@ -16,8 +16,24 @@ changes under historical conditions and future Shared Socioeconomic Pathways (SS
 - Scenarios: Historical, SSP2‑4.5, SSP5‑8.5  
 
 ## Tools
-- Python: `xarray`, `pandas`, `numpy`, `matplotlib`, `scipy`  
+- Python: `xarray`, `pandas`, `numpy`, `matplotlib`, `scipy`, `jupyter`  
 - Jupyter Notebooks  
 
-## Author
+## How to Run
+1. Install required Python libraries (ideally in a virtual environment):  
+   ```bash
+   pip install xarray pandas numpy matplotlib scipy jupyter
+   
+2. Open Jupyter Notebook:
+bash
+jupyter notebook
+
+Run the notebooks in order:
+1. Cmip6_city_data_retrieval.ipynb
+2. Climate_summary_analysis.ipynb
+3. Models_ssp_timeseries.ipynb
+
+Author
 Aurela Sakaj
+
+
