@@ -1,5 +1,9 @@
 # CMIP6 Climate Projections – SSP Scenario Analysis
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This repository contains code and analysis for retrieving, processing, and analyzing 
 climate model data from **CMIP6**. The focus is on **temperature and precipitation** 
 changes under historical conditions and future Shared Socioeconomic Pathways (SSP2‑4.5 and SSP5‑8.5).
@@ -37,19 +41,53 @@ socioeconomic pathways translate into measurable climate outcomes.
 - `Models_ssp_timeseries.ipynb` – ensemble mean visualizations with uncertainty ranges  
 - `Climate_Projections_CMIP6_SSP_Scenarios.pptx` – presentation summarizing results  
 
+---
+
 ## Data
 
 - Source: [Pangeo CMIP6 Cloud Data](https://pangeo.io/)  
 - Variables: **Temperature (tas)**, **Precipitation (pr)**  
 - Scenarios: Historical, SSP2‑4.5, SSP5‑8.5  
 
+---
+
 ## Tools
 
 - Python: `xarray`, `pandas`, `numpy`, `matplotlib`, `scipy`, `jupyter`  
 - Jupyter Notebooks  
+
+---
 
 ## How to Run
 
 1. Install required Python libraries (ideally in a virtual environment):  
    ```bash
    pip install xarray pandas numpy matplotlib scipy jupyter
+   ```
+
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/aurelasakaj-hub/CMIP6-Climate-Projections.git
+   cd CMIP6-Climate-Projections
+   ```
+
+3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+
+---
+
+## Author
+
+**Aurela Sakaj**
+
+- [LinkedIn](https://www.linkedin.com/in/auraela-sakaj)
+- [GitHub](https://github.com/aurelasakaj-hub)
+- [Email](mailto:sakaura3@gmail.com)
+
+---
+
+## Acknowledgements
+
+This analysis uses CMIP6 data provided by the World Climate Research Programme's Working Group on Coupled Modelling. The Pangeo project is acknowledged for providing open access to cloud-hosted CMIP6 data.
