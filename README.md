@@ -22,11 +22,11 @@ socioeconomic pathways translate into measurable climate outcomes.
 ## Key Methods
 
 | Method | Description |
-
-Multi-model ensemble averaging** | Combines outputs from multiple CMIP6 models to reduce uncertainty |
-Statistical significance testing** | Validates whether scenario differences are meaningful |
-Uncertainty quantification** | Visualizes ensemble spread to communicate confidence |
-City-level data retrieval** | Extracts localized climate projections for specific urban areas |
+|--------|-------------|
+| **Multi-model ensemble averaging** | Combines outputs from multiple CMIP6 models to reduce uncertainty |
+| **Statistical significance testing** | Validates whether scenario differences are meaningful |
+| **Uncertainty quantification** | Visualizes ensemble spread to communicate confidence |
+| **City-level data retrieval** | Extracts localized climate projections for specific urban areas |
 
 ---
 
