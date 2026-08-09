@@ -87,7 +87,7 @@ jupyter
 
 **Aurela Sakaj**
 
-- [LinkedIn](https://www.linkedin.com/in/auraela-sakaj)
+- [LinkedIn](https://www.linkedin.com/in/aurela-sakaj)
 - [GitHub](https://github.com/aurelasakaj-hub)
 - [Email](mailto:sakaura3@gmail.com)
 
