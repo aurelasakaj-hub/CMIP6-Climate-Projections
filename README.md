@@ -38,7 +38,6 @@ socioeconomic pathways translate into measurable climate outcomes.
 - `Cmip6_city_data_retrieval.ipynb` – retrieves climate data (temperature & precipitation) for selected cities  
 - `Climate_summary_analysis.ipynb` – statistical analysis of trends, deltas, and significance tests  
 - `Models_ssp_timeseries.ipynb` – ensemble mean visualizations with uncertainty ranges  
-- `Climate_Projections_CMIP6_SSP_Scenarios.pptx` – presentation summarizing results  
 
 ---
 
