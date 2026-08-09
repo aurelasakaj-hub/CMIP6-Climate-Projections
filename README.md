@@ -52,8 +52,14 @@ socioeconomic pathways translate into measurable climate outcomes.
 
 ## Tools
 
-- Python: `xarray`, `pandas`, `numpy`, `matplotlib`, `scipy`, `jupyter`  
-- Jupyter Notebooks  
+intake
+intake-esm
+xarray
+pandas
+numpy
+matplotlib
+scipy
+jupyter 
 
 ---
 
